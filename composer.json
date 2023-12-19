@@ -1,0 +1,10 @@
+{
+    "name": "juanc/meufuturo",
+    "description": "esutod php",
+    "authors": [
+        {
+            "name": "juan"
+        }
+    ],
+    "require": {}
+}
